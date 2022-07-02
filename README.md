@@ -20,8 +20,8 @@ orfeo show #218
 
 ```
 
-
-
 ## Links
 
 * [How to Build Command Line Interfaces in Python With argparse](https://realpython.com/command-line-interfaces-python-argparse/)
+
+* [Building Beautiful Command Line Interfaces with Python](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)
