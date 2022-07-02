@@ -2,7 +2,11 @@
 
 ## Como executar
 
+```shell
+
 python3 orfeo-cli.py show
+
+```
 
 ## `show <card_id>` | Mostrar informações task 218
 
