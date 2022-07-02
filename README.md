@@ -1,5 +1,9 @@
 # Orfeo Command Line Interface (orfeo-cli)
 
+## Como executar
+
+python3 orfeo-cli.py show
+
 ## `show <card_id>` | Mostrar informações task 218
 
 ```shell
