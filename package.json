@@ -1,0 +1,21 @@
+{
+  "name": "orfeo-cli",
+  "version": "1.0.0",
+  "description": "Interface com o usuário do orfeo",
+  "main": "index.js",
+  "scripts": {
+    "postcompress": "pip install -r requirements.txt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/govinda777/orfeo-cli.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/govinda777/orfeo-cli/issues"
+  },
+  "homepage": "https://github.com/govinda777/orfeo-cli#readme",
+  "dependencies": {}
+}
